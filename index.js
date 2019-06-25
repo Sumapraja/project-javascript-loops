@@ -2,7 +2,7 @@ let iteration = 1
 
 do{
     console.log(iteration);
-    iteration += 5
+    iteration += 7
 } while (iteration < 30)
 
 for(let index = 0; index<=40; index+=10){
